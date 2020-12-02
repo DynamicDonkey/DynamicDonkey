@@ -1,4 +1,8 @@
-### Hi there 👋
+### コニチハ, I'm Dynamic Donkey! Feel free to call Me Avellea though!
+
+## I'm a student, hobbyist programmer, and MMO addict.
+
+-
 
 [![DynamicDonkey's github stats](https://github-readme-stats.vercel.app/api?username=DynamicDonkey&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
