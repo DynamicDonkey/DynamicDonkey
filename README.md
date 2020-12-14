@@ -2,7 +2,7 @@
 
 ## I'm a student, hobbyist programmer, and MMO addict.
 
-- 🔎 I have no active projects but I'm a contributor to the [Easymake project](https://github.com/undersquire/easymake)
+- 🔎 I have no active projects but I'm a contributor to the [Easymake project](https://github.com/Cleanware/easymake)
 - 📚 I'm currently learning C/C++
 
 ### Languages and tools:
