@@ -1,6 +1,4 @@
-### コニチハ, I'm Dynamic Donkey! Feel free to call Me Avellea though!
-
-## I'm a student, hobbyist programmer, and MMO addict.
+### コニチハ, I'm Dynamic Donkey!
 
 - 🔎 I have no active projects but I'm a contributor to the [Easymake project](https://github.com/Cleanware/easymake)
 - 📚 I'm currently learning C/C++
@@ -24,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicDonkey&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p align="center"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DynamicDonkey/count.svg" />
 </p>
