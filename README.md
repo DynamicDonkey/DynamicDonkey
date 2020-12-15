@@ -26,5 +26,5 @@
 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Abb1x/count.svg" />
+  <img src="https://profile-counter.glitch.me/DynamicDonkey/count.svg" />
 </p>
